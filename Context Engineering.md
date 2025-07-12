@@ -1,6 +1,8 @@
-## Context engineering - providing the right information, in the right format, at the right time, to maximize the effectiveness of LLMs and AI systems.
-
-https://raw.githubusercontent.com/nordeim/Prompt-Context-Engineering/refs/heads/main/context_engineering.png
+<div align="center">
+  <img src="context_engineering.png" alt="Context engineering" width="600" height="500">
+  <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Context engineering</h1>
+  <p style="font-size: 1.2em; color: hsl(215, 20.2%, 65.1%);">providing the right information, in the right format, at the right time, to maximize the effectiveness of LLMs and AI systems</p>
+</div>
 
 1. System Instructions - initial set of rules or guidelines
 2. User Prompt
